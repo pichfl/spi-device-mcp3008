@@ -1,0 +1,30 @@
+{
+  "name": "spi-device-mcp3008",
+  "version": "0.1.0",
+  "description": "EventEmitter based micro-library using spi-device to access a MCP3008 on Raspberry PI and others",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pichfl/spi-device-mcp3008.git"
+  },
+  "keywords": [
+    "raspberry",
+    "pi",
+    "pi",
+    "spi",
+    "mcp3008",
+    "mcp"
+  ],
+  "author": "Florian Pichler <fp@ylk.gd>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pichfl/spi-device-mcp3008/issues"
+  },
+  "homepage": "https://github.com/pichfl/spi-device-mcp3008#readme",
+  "dependencies": {
+    "spi-device": "^0.2.3"
+  }
+}
